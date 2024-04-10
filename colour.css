@@ -1,0 +1,95 @@
+.navbar{
+    display: flex;
+    width: 1035px;
+    height: 60px;
+    align-items: center;
+
+
+}
+.nav-ce{
+    display: flex;
+    justify-content: center;
+}
+
+.home button {
+    margin-left: 32px;
+    background-color: transparent;
+    border: 0;
+    color: aliceblue;
+}
+.home{
+
+    font-family: Inter;
+    margin-left: 53px;
+
+}
+.home1 button{
+
+    margin-left: 32px;
+    background-color: transparent;
+    border: 0;
+    color: aliceblue;
+
+    margin-left: 53px;
+
+}
+.home1{
+    font-family: Inter;
+padding-left: 320px;
+}
+
+
+/* landing page */
+.lan-cen{
+    display: flex;
+
+flex-direction: column;
+align-items: center;
+
+
+}
+
+.hello{
+    font-family: -apple-system,  
+                BlinkMacSystemFont, sans-serif; 
+                font-size: 80px;
+                font-weight: bold;
+                font-stretch: normal;
+                font-style: normal;
+                line-height: normal;
+                letter-spacing: -1.2px;
+                text-align: center;
+                color: #f0f0f0;;
+
+             margin-top: 0px;
+             padding-top: 115px;
+
+}
+.intro{
+    
+    font-family: -apple-system,  
+    BlinkMacSystemFont, sans-serif; 
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.3px;
+    text-align: center;
+    color: #989898;
+    margin: 0px;
+    padding-top: 20px;
+
+
+
+}
+.landing-page{
+    width: 1280px;
+    height: 832px;
+
+}
+.xcode{
+
+    
+   
+}
