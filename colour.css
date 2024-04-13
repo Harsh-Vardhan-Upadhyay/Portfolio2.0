@@ -990,8 +990,9 @@ margin-left: 0px;
     width: 100%;
 align-items: start;
 flex-direction: column;
-margin-right: 50px;
-margin-top: 100px;
+margin-left: 250px;
+margin-top: 120px;
+
   }
 
 .web{
@@ -1166,7 +1167,9 @@ width: 50%;
                 font-size: 4rem;
 font-weight: 600;
 display: flex;
-justify-content: start;
+justify-content: center;
+
+width: 1280px;
 
   }
 
@@ -1177,7 +1180,9 @@ justify-content: start;
 }
 
 
-
+.exp{
+  width: 1280px;
+}
 
 
 
