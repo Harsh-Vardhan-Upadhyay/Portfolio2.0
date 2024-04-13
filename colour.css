@@ -975,8 +975,10 @@ margin-left: 0px;
 
 
 
-
-
+/* skill */
+.skill{
+  display: fle;
+}
 
   .heading123{
     color: #dad6d6;
@@ -989,7 +991,7 @@ justify-content: end;
 
   }
 
-
+/* exp */
   .heading1234{
     color: #dad6d6;
     font-family: -apple-system,  
