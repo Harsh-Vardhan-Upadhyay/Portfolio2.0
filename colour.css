@@ -48,7 +48,27 @@ flex-direction: column;
 align-items: center;
 
 
+
+
 }
+
+.xcode{
+  opacity: 0;
+  transition: all 1s;
+
+}
+.xcode1{
+  opacity: 0;
+  transition: all 4s;
+
+}
+.show{
+  opacity: 1;
+
+}
+
+
+
 
 .hello{
     font-family: -apple-system,  
